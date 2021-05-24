@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Attributes
+* *Diligent*
+* Over _20_ years of experience in Quality Assurance
+
+# Skills
+* Git
+* GitHub
+* Jenkins
+* Jira
